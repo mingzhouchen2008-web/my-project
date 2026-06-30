@@ -1,3 +1,3 @@
 # My New Project
 
-This is my updated version 🚀Working on feature branch 🚀
+This change is from feature branch.
